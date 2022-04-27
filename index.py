@@ -222,7 +222,7 @@ def pie_chart_totals(cur, conn):
     for size in sizes:
         sizes_list.append(size[0])
     # print(sizes_list)
-    patches, texts = plt.pie(sizes_list, autopct='%0.1f%%', startangle=140)
+    patches, texts = plt.pie(sizes_list, startangle=140)
     plt.title('Number of Education Reviews by State')
     plt.axis('equal')
     # labels = [f'{l}, {s:0.1f}%' for l, s in zip(labels, sizes)]
