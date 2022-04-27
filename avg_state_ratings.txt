@@ -1,0 +1,7 @@
+Average Ratings of Schools in Each State:
+======================================================================================
+
+The average rating for schools in OH was 3.5.
+The average rating for schools in AZ was 4.625.
+The average rating for schools in MI was 4.8.
+The average rating for schools in FL was 4.568965517241379.

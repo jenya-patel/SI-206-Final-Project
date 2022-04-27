@@ -84,7 +84,7 @@ def YelpStatesTable(business_data, cur, conn):
     cur.execute("CREATE TABLE IF NOT EXISTS States (id INTEGER IDENTITY(1,1), State TEXT UNIQUE PRIMARY KEY)")
     cur.execute("SELECT COUNT(*) FROM States")
     id = cur.fetchall()
-    print(id)
+    # print(id)
     for i in range(len(business_data['businesses'])):
         state = business_data['businesses'][i]['location']['state']
         cur.execute('INSERT OR IGNORE INTO States (id, State) VALUES (?, ?)', (id[0][0], state))
@@ -256,7 +256,7 @@ def scatter_plot_rating_income(cur, conn):
     #   [Previous line repeated 995 more times]
     # RecursionError: maximum recursion depth exceeded
     scatter_calc = calc_scatter_plot(cur, conn)
-    print(scatter_calc)
+    # print(scatter_calc)
     
     x_axis_labels = []
     y_axis_labels = []

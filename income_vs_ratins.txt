@@ -1,0 +1,13 @@
+Average Ratings of Schools vs Median Income of the City:
+======================================================================================
+
+The average rating for schools in Tucson with a median income of $54,171 was 4.625.
+The average rating for schools in Kalamazoo with a median income of $37,192 was 5.0.
+The average rating for schools in Portage with a median income of $34,673 was 5.0.
+The average rating for schools in St. Joseph with a median income of $62,935 was 4.0.
+The average rating for schools in Boca Raton with a median income of $54,922 was 4.5.
+The average rating for schools in Miami Beach with a median income of $60,804 was 4.5.
+The average rating for schools in Miami with a median income of $51,934 was 4.586956521739131.
+The average rating for schools in South Miami with a median income of $38,656 was 4.5.
+The average rating for schools in Dayton with a median income of $47,685 was 2.75.
+The average rating for schools in Lebanon with a median income of $61,974 was 5.0.

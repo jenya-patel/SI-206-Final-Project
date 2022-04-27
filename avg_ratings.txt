@@ -1,0 +1,13 @@
+Average Ratings of Schools in Each City:
+======================================================================================
+
+The average rating for schools in Tucson was 4.625.
+The average rating for schools in Kalamazoo was 5.0.
+The average rating for schools in Portage was 5.0.
+The average rating for schools in St. Joseph was 4.0.
+The average rating for schools in Boca Raton was 4.5.
+The average rating for schools in Miami Beach was 4.5.
+The average rating for schools in Miami was 4.586956521739131.
+The average rating for schools in South Miami was 4.5.
+The average rating for schools in Dayton was 2.75.
+The average rating for schools in Lebanon was 5.0.
