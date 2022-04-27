@@ -4,8 +4,22 @@ Average Ratings of Schools in Each City:
 The average rating for schools in Tucson was 4.625.
 The average rating for schools in Kalamazoo was 5.0.
 The average rating for schools in Portage was 5.0.
+The average rating for schools in Roseville was 5.0.
 The average rating for schools in St. Joseph was 4.0.
+The average rating for schools in Davis was 5.0.
+The average rating for schools in Dixon was 5.0.
+The average rating for schools in Elk Grove was 4.25.
+The average rating for schools in Lafayette was 5.0.
+The average rating for schools in Lincoln was 2.5.
+The average rating for schools in Los Gatos was 5.0.
+The average rating for schools in Rocklin was 3.75.
+The average rating for schools in Sacramento was 4.566666666666666.
+The average rating for schools in San Francisco was 5.0.
+The average rating for schools in San Jose was 4.818181818181818.
+The average rating for schools in Santa Clara was 4.653846153846154.
 The average rating for schools in Boca Raton was 4.5.
+The average rating for schools in Gainesville was 4.357142857142857.
+The average rating for schools in Jacksonville was 4.5.
 The average rating for schools in Miami Beach was 4.5.
 The average rating for schools in Miami was 4.586956521739131.
 The average rating for schools in South Miami was 4.5.

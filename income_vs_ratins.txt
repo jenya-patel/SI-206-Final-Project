@@ -4,8 +4,22 @@ Average Ratings of Schools vs Median Income of the City:
 The average rating for schools in Tucson with a median income of $54,171 was 4.625.
 The average rating for schools in Kalamazoo with a median income of $37,192 was 5.0.
 The average rating for schools in Portage with a median income of $34,673 was 5.0.
+The average rating for schools in Roseville with a median income of $86,694 was 5.0.
 The average rating for schools in St. Joseph with a median income of $62,935 was 4.0.
+The average rating for schools in Davis with a median income of $99,910 was 5.0.
+The average rating for schools in Dixon with a median income of $56,899 was 5.0.
+The average rating for schools in Elk Grove with a median income of $115,846 was 4.25.
+The average rating for schools in Lafayette with a median income of $93,473 was 5.0.
+The average rating for schools in Lincoln with a median income of $68,658 was 2.5.
+The average rating for schools in Los Gatos with a median income of $250,000+ was 5.0.
+The average rating for schools in Rocklin with a median income of $89,110 was 3.75.
+The average rating for schools in Sacramento with a median income of $138,641 was 4.566666666666666.
+The average rating for schools in San Francisco with a median income of $123,529 was 5.0.
+The average rating for schools in San Jose with a median income of $119,136 was 4.818181818181818.
+The average rating for schools in Santa Clara with a median income of $52,349 was 4.653846153846154.
 The average rating for schools in Boca Raton with a median income of $54,922 was 4.5.
+The average rating for schools in Gainesville with a median income of $58,566 was 4.357142857142857.
+The average rating for schools in Jacksonville with a median income of $55,197 was 4.5.
 The average rating for schools in Miami Beach with a median income of $60,804 was 4.5.
 The average rating for schools in Miami with a median income of $51,934 was 4.586956521739131.
 The average rating for schools in South Miami with a median income of $38,656 was 4.5.

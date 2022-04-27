@@ -4,4 +4,5 @@ Total Number of Reviews for Schools in Each State:
 The total number of reviews for schools in OH was 7.
 The total number of reviews for schools in AZ was 22.
 The total number of reviews for schools in MI was 15.
-The total number of reviews for schools in FL was 290.
+The total number of reviews for schools in FL was 312.
+The total number of reviews for schools in CA was 1497.

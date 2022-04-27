@@ -216,8 +216,6 @@ def pie_chart_totals(cur, conn):
     labels = []
     for size in sizes:
         labels.append(size[1])
-    # colors = ['Blue', 'Red', 'Orange', 'Green', 'Purple']
-    # explode = (0.2, 0)
     sizes_list = []
     for size in sizes:
         sizes_list.append(size[0])
@@ -252,9 +250,6 @@ def bar_chart_avg_rating(cur, conn):
     
 
 def scatter_plot_rating_income(cur, conn):
-    # line 296, in scatter_plot_rating_income scatter_calc = scatter_plot_rating_income(cur, conn)
-    #   [Previous line repeated 995 more times]
-    # RecursionError: maximum recursion depth exceeded
     scatter_calc = calc_scatter_plot(cur, conn)
     # print(scatter_calc)
     
@@ -350,9 +345,6 @@ def main():
     scatter_data = calc_scatter_plot(cur, conn)
     write_scatter_data_to_file('income_vs_ratins.txt', scatter_data)
     scatter_plot_rating_income(cur, conn)
-   
-    # calculate_avg_income(cur, conn)
-    # bar_chart_tier_ratings(avg_income)
 
     avg_state_rating = calculate_avg_rating_by_state(cur, conn)
     write_avg_rating_by_state_to_file('avg_state_ratings.txt', avg_state_rating)
